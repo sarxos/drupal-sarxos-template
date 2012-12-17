@@ -1,0 +1,22 @@
+name = sarxos
+description = SarXos Theme using Twitter Bootsrap
+
+regions[right] = Sidebar
+regions[content] = Below content
+
+features[] = name
+features[] = search
+features[] = favicon
+features[] = primary_links
+features[] = comment_user_picture
+
+stylesheets[all][] = style.css
+
+scripts[] = js/pngfix.js
+
+engine = phptemplate
+version = "6.x-1.0"
+core = "6.x"
+project = "sarxos"
+datestamp = "1222269631"
+
